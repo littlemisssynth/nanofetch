@@ -18,4 +18,4 @@ sudo rm -rf /usr/bin/nanofetch
 ```
 
 ## Screenshot
-[Imgur](https://i.imgur.com/HrKUvJK.png)
+![Imgur](https://i.imgur.com/HrKUvJK.png)
