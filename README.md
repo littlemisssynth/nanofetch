@@ -1,6 +1,17 @@
 # nanofetch
 A mini script to fetch system info in the terminal, supports Linux.
 
+## Features
+1. Very lightweight
+2. Should be compatible with most linux distros
+3. Open source
+
+## Planned features
+1. Ascii art
+
+## Notes
+This is NOT a neofetch replacement, it is a simple fetch script I made for experimenting and learning purposes!
+
 ## Installation
 Installation is fairly simple!
 ```
