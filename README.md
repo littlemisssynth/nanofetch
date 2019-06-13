@@ -16,3 +16,6 @@ nanofetch
 ```
 sudo rm -rf /usr/bin/nanofetch
 ```
+
+## Screenshot
+[Imgur](https://i.imgur.com/HrKUvJK.png)
