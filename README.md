@@ -8,6 +8,7 @@ A mini script to fetch system info in the terminal, supports Linux.
 
 ## Planned features
 1. Ascii art
+2. Different colors
 
 ## Notes
 This is NOT a neofetch replacement, it is a simple fetch script I made for experimenting and learning purposes!
