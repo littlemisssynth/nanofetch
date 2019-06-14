@@ -10,7 +10,7 @@ memrawfree=$(grep -m 1 -i 'MemAvailable' /proc/meminfo)
 memfkb=$(echo $memrawfree | sed 's/MemAvailable: //g; s/kB//g')
 memfree=$(expr $memfkb / 1024)
 uptime=$(uptime -p | sed 's/up //g')
-distro=$(grep -m 1 -i 'NAME=' /etc/os-release | sed 's/NAME=//g;s/"//g')
+distro=$(grep -m 1 -i 'NAME=' /etc/os-release | sed 's/NAME=//g;s/"//g;s/PRETTY_//g')
 
 # Print output
 
