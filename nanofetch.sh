@@ -15,3 +15,4 @@ echo Kernel: $kernel "(Darwin)"
 echo Distro: $distro
 echo Shell: $SHELL
 echo Mem: $mem\mb
+echo "CPU: Virtual i686 (1)"
