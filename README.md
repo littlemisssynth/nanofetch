@@ -16,7 +16,7 @@ This is NOT a neofetch replacement, it is a simple fetch script I made for exper
 ## Installation
 Installation is fairly simple! Be sure to copy and paste the entire command exactly as shown below:
 ```
-git clone https://github.com/littlemisssynth/nanofetch-iSH.git; mv ./nanofetch/nanofetch.sh /usr/bin/nanofetch; cd ..; rm -rf nanofetch; chmod +x /usr/bin/nanofetch
+git clone https://github.com/littlemisssynth/nanofetch-iSH.git; mv ./nanofetch-iSH/nanofetch.sh /usr/bin/nanofetch-iSH; cd ..; rm -rf nanofetch-iSH; chmod +x /usr/bin/nanofetch-iSH
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ nanofetch
 
 ## Uninstallation
 ```
-rm -rf nanofetch
+rm -rf nanofetch-iSH
 ```
 
 ## Screenshot
