@@ -11,7 +11,7 @@ distro=$(grep -m 1 -i 'NAME=' /etc/os-release | sed 's/NAME=//g;s/"//g;s/PRETTY_
 
 # Print output
 
-echo Kernel: $kernel (Darwin)
+echo Kernel: $kernel "(Darwin)"
 echo Distro: $distro
 echo Shell: $SHELL
 echo Mem: $mem\mb
