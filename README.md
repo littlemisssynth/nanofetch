@@ -4,12 +4,7 @@ it is based upon the nanofetch script made by Lyra64
 
 ## Features
 1. Very lightweight
-2. Should be compatible with most linux distros
-3. Open source
-
-## Planned features
-1. Ascii art
-2. Colored text
+2. Open source
 
 ## Notes
 This is NOT a neofetch replacement, it is a simple fetch script I made for experimenting and learning purposes!
