@@ -29,6 +29,3 @@ nanofetch
 ```
 rm -rf nanofetch
 ```
-
-## Screenshot
-![Imgur](https://i.imgur.com/HrKUvJK.png)
