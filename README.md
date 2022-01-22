@@ -1,6 +1,6 @@
 # nanofetch-iSH
 A mini script to fetch system info in the terminal, supports Linux, but is configured specificly for iSH.
-it is based upon the nanofetch script made by Lyra64
+it is based upon the nanofetch script made by alicela1n
 
 ## Features
 1. Very lightweight
